@@ -1,0 +1,36 @@
+# Homework 1 - [Your Name]
+
+This folder contains the work for **Homework 1** in [Course Name/Code]. The objective of this assignment was to [briefly describe the purpose of the homework, e.g., "apply statistical modeling techniques to analyze XYZ data"].
+
+## Folder Contents
+
+- `data/`: Folder containing datasets used for analysis.
+  - `dataset.csv`: Main dataset used in the notebook for data analysis.
+- `images/`: Folder containing visualizations generated during the analysis.
+  - `bass_diffusion_plot.png`: A graph showing cumulative sales adoption over time using the Bass Diffusion Model.
+- `reports/`: Folder with any generated reports or additional output files.
+  - `report.pdf`: Final report summarizing the analysis.
+  - `report_source.ipynb`: Jupyter notebook containing the code and analysis for the assignment.
+
+
+## Instructions
+
+1. Open `report_source.ipynb` in a Jupyter environment (e.g., Jupyter Notebook or JupyterLab).
+2. Run all cells in the notebook to execute the analysis and generate results.
+3. The dataset required for the analysis is in the `data/` folder. Ensure that it is loaded correctly.
+4. Review the generated plots and results in the `images/` folder.
+
+## Requirements
+
+Ensure that the following Python packages are installed:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+Install the dependencies using `pip`:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
